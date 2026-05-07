@@ -1,0 +1,214 @@
+*{  
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(10, 10, 10);
+    height: 6vh;
+    align-items: center;
+    }
+nav ul li{
+    list-style-type:none;
+    padding: 10px;
+    
+    /* padding: 20px; */
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: rgb(102, 176, 236);
+    font-weight: bold;
+    
+    
+}
+nav ul{
+    display: flex;
+    justify-content: flex-start;
+    /* align-items:center ; */
+    height: 6vh;
+    color: white;
+    
+}
+nav{
+    display: flex;
+}
+footer{
+    /* width: 50vw; */
+    display: flex;
+   height:30vh;
+   width:100vw;
+   color: rgb(19, 18, 18);
+   background-color: rgb(15, 15, 15);
+   
+}
+.container{
+    background-color: black;
+}
+.heading{
+    width: 25vw;
+    height: 10vh;
+    /* background-color: blue; */
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+}
+.row1{
+    display: flex;
+}
+.bx1{
+    width: 50vw;
+    height: 70vh;
+    background-image: url(../IMG/callanetics.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bx2{
+    width: 50vw;
+    height:70vh;
+    background-image: url(../IMG/air.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rtxt1{
+display: flex;
+}
+.txt1{
+    width: 40vw;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+}
+.txt2{
+    width: 40vw;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+}
+.row2{
+    display: flex;
+}
+.bx3{
+    width: 50vw;
+    height: 70vh;
+    background-image: url(../IMG/sportdance.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bx4{
+    width: 50vw;
+    height:70vh;
+    background-image: url(../IMG/lifting.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rtxt2{
+display: flex;
+}
+.txt3{
+    width: 40vw;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+}
+.txt4   {
+    width: 40vw;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+}
+.row3{
+    display: flex;
+}
+.bx5{
+    width: 50vw;
+    height: 70vh;
+    background-image: url(../IMG/boxing.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bx6{
+    width: 50vw;
+    height:70vh;
+    background-image: url(../IMG/cadio0.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rtxt3{
+display: flex;
+}
+.txt5{
+    width: 40vw;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+}
+.txt6{
+    width: 40vw;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+}
+.row4{
+    display: flex;
+}
+.bx7{
+    width: 50vw;
+    height: 70vh;
+    background-image: url(../IMG/presss.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bx8{
+    width: 50vw;
+    height:70vh;
+    background-image: url(../IMG/body.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rtxt4{
+display: flex;
+}
+.txt7{
+    width: 40vw;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+}
+.txt8{
+    width: 40vw;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+}
+.box1{
+   width: 55vw;
+   display:inline-block
+   justify-content: center;
+   color: white;
+   margin: 0px;
+   padding: 20px;
+}
+
+.box2{
+   width: 50vw;
+   padding: 20px;
+color: white;
+}
